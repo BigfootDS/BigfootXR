@@ -19,7 +19,7 @@ This toolkit is built in Unity 2017.2.0p2. For smoothest operations, please use 
 
 
 ## Change Log
-- Renamed "BigfootVRToolkit" to BigfootXR
+- Renamed "BigfootVRToolkit" to BigfootXR - 12/03/18
 
 
 ## Roadmap
