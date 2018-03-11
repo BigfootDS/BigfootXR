@@ -4,6 +4,23 @@ A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in g
 Built in Unity 2017.2.0p2. Compatible with that version and newer. YMMV on older Unity 2017 versions. 
 This will definitely NOT work on versions prior to Unity 2017.
 
+
+## Current Features
+- Headset tracking
+- Controller & remote tracking
+-- Automatic controller-specific detection & adjustments
+- Simple "virtual joystick" movement
+- Simple aim-and-shoot teleport functionality (straight line laser pointer)
+- UI interactivity (straight line laser pointer)
+- Grabbing & throwing
+
+
+## Known Bugs
+- Grabbing & throwing is also doable via the laser pointers via Unity's collision/hierarchy functionality
+- Grabbing sometimes fails depending on how fast you move while carrying an object
+- Teleporting sometimes happens on a specific button press, if previously-activated teleport buttons are deactivated in a specific order
+
+
 ## Getting Started & Installation
 
 This toolkit includes scripts, prefabs, and project settings. 
