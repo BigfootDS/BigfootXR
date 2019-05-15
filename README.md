@@ -1,7 +1,7 @@
 # BigfootXR
 A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically.
 
-Built in Unity 2017.2.0p2. Compatible with that version and newer. YMMV on older Unity 2017 versions. 
+Built in Unity 2018.3.6f1. Compatible with that version and newer. YMMV on older Unity versions. 
 This will definitely NOT work on versions prior to Unity 2017.
 
 
@@ -32,10 +32,11 @@ There is a "VRContainer" prefab in the included assets that has the basic setup 
 
 ### Prerequisites
 
-This toolkit is built in Unity 2017.2.0p2. For smoothest operations, please use that version or newer.
+This toolkit is built in Unity 2018.3.6f1. For smoothest operations, please use that version or newer.
 
 
 ## Change Log
+- Updated to 2018.3.6f1. Also implemented OpenVR/Oculus SDKs via the Unity Package Manager - 15/05/19
 - Renamed "BigfootVRToolkit" to BigfootXR - 12/03/18
 
 
